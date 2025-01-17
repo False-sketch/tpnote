@@ -1,0 +1,20 @@
+# connection au repo
+git config --global user.email b******@gmail.com
+git config --global user.name firaaax
+git config --global user.password **********************
+git clone https://firaaax:**********************@github.com/False-sketch/tpnote.git
+git remote add origin https://github.com/False-sketch/tpnote
+
+# création du fichier index.html
+cd html
+nano index.html
+git add index.html
+git commit -m "modif html"
+git push
+
+# création du fichier branfon.txt
+cd tpnote
+nano brandon.txt
+git add brandon.txt
+git commit -m "commandes brandon"
+git push
