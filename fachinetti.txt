@@ -1,0 +1,17 @@
+git config --global user.email s**@gmail.com
+git config --global user.name steakyyy
+git config --global user.password **
+git clone https://github.com/False-sketch/tpnote.git
+
+cd css
+git switch css
+nano styles.css
+git add styles.css
+git commit -m "css"
+git push
+
+cd tpnote
+nano fachinetti.txt
+git add fachinetti.txt
+git commit -m "commandes arthur"
+git push
