@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "premier commit"
+git push 
+git switch css
+nano styles-mobile.css
+git add styles-mobile.css
+git commit -m "styles mobiles"
+git push
