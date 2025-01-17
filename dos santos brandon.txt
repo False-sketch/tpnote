@@ -13,9 +13,9 @@ git add index.html
 git commit -m "modif html"
 git push
 
-# création du fichier branfon.txt
+# création du fichier dos santos brandon.txt
 cd tpnote
-nano brandon.txt
-git add brandon.txt
+nano dos santos brandon.txt
+git add dos santos brandon.txt
 git commit -m "	modif brandon"
 git push
